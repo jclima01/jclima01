@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/jclimacaramico">
   <img align="left" alt="jclc's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AmitHasanShuvo">
+<a href="https://github.com/jclima01">
   <img align="left" alt="jclc's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
