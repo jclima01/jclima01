@@ -88,6 +88,18 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
       </a>
       <br>PostgreSQL
     </td>
+      <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+      <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
 
