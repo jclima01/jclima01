@@ -1,13 +1,44 @@
+## Hello World!
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AmitHasanShuvo&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+
+<a href="https://www.linkedin.com/in/kazi-amit-hasan/">
+  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AmitHasanShuvo">
+  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
+  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+</a>
+
+<a href="https://www.kaggle.com/amithasanshuvo">
+  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://www.researchgate.net/profile/Kazi_Amit_Hasan">
+  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/researchgate.svg" />
+</a>
+<br />
+
+
+## Hi, I'm Juan Cruz! 👋
+
+ I consider myself a person passionate about learning and acquiring new knowledge by interacting with people. I have prepared myself over the years through formal education as well as self-directed learning. I am ready to continue growing professionally and add value to IT teams.
+
+Check the repositories section to see my efforts! Hope, you will enjoy it!
+
+⭐️ 
+
 ### 
 
 
-# Hi, I'm Juan Cruz! 👋
+# 
 
 <!-- ![My profile](https://i.imgur.com/UxTmoPS.png) -->
   
 ## About me 
     
- I consider myself a person passionate about learning and acquiring new knowledge by interacting with people. I have prepared myself over the years through formal education as well as self-directed learning. I am ready to continue growing professionally and add value to IT teams.
+
 
 ### **Languages & Tools**
 
