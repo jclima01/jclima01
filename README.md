@@ -12,8 +12,4 @@ I consider myself a person passionate about learning and acquiring new knowledge
 
 ⭐️ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-### What i'm up to
-🔭 I’m currently learning Typescript.
-🌱 I’m currently working with React and Nodejs.
-
 
